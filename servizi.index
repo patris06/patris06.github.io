@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Servizi della Concessionaria</title>
+    <style>
+        /* Stili CSS per la pagina */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Servizi della Concessionaria</h1>
+        <ul>
+            <li><strong>Finanziamento:</strong> Finanzia la tua auto con opzioni di leasing, noleggio o acquisto.</li>
+            <li><strong>Assicurazione:</strong> Proteggi il tuo veicolo con una polizza assicurativa su misura.</li>
+            <li><strong>Garanzia estesa:</strong> Estendi la garanzia del tuo veicolo per una maggiore tranquillità.</li>
+            <li><strong>Manutenzione:</strong> Offri servizi di alta qualità per la manutenzione dei veicoli.</li>
+            <li><strong>Servizi connessi:</strong> Fornisci soluzioni digitali per una guida più sicura e divertente.</li>
+            <li><strong>Accessori:</strong> Proporzione accessori originali per personalizzare i veicoli.</li>
+            <li><strong>Ricarica:</strong> Offri soluzioni di ricarica per veicoli elettrici.</li>
+            <li><strong>Mobilità:</strong> Aiuta i clienti a soddisfare le loro esigenze di mobilità.</li>
+        </ul>
+    </div>
+</body>
+</html>
